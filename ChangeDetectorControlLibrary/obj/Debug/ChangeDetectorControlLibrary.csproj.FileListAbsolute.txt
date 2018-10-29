@@ -1,0 +1,6 @@
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.dll
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.pdb
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.csprojResolveAssemblyReference.cache
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.dll
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.pdb
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.XML

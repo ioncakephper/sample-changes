@@ -1,0 +1,13 @@
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetector.exe.config
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetector.exe
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetector.pdb
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.csprojResolveAssemblyReference.cache
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.Form1.resources
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.Properties.Resources.resources
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.SampleDialog.resources
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.csproj.GenerateResource.Cache
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.exe
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\obj\Debug\ChangeDetector.pdb
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.dll
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.pdb
+c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.xml

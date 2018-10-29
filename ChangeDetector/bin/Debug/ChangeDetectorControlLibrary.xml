@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChangeDetectorControlLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs">
+            <summary>
+            Defines the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs"/>
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.#ctor(System.Object,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs"/> class.
+            </summary>
+            <param name="sender"></param>
+            <param name="p"></param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs"/> class.
+            </summary>
+            <param name="p"></param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.Sender">
+            <summary>
+            Gets or sets the Sender.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.Cancel">
+            <summary>
+            Gets or sets a value indicating whether change detection event should be Canceled.
+            </summary>
+        </member>
+        <member name="T:ChangeDetectorControlLibrary.ChangeDetector">
+            <summary>
+            Defines the ChangeDetector class.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeDetector"/> class.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.#ctor(System.ComponentModel.IContainer)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeDetector"/> class.
+            </summary>
+            <param name="container">The containing container.</param>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.CancelFormClosing(System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChange(ChangeDetectorControlLibrary.ChangeOccurredEventArgs)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetecting(ChangeDetectorControlLibrary.ChangeDetectingEventArgs)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetected(ChangeDetectorControlLibrary.ConfirmationActionEventArgs)" -->
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeProperties">
+            <summary>
+            Initializes properties.
+            </summary>
+        </member>
+        <member name="F:ChangeDetectorControlLibrary.ChangeDetector.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="E:ChangeDetectorControlLibrary.ChangeDetector.ChangeDetecting">
+            <summary>
+            Defines the ChangeDetecting event.
+            </summary> 
+        </member>
+        <member name="E:ChangeDetectorControlLibrary.ChangeDetector.Change">
+            <summary>
+            Defines the Change event.
+            </summary>
+        </member>
+        <member name="E:ChangeDetectorControlLibrary.ChangeDetector.ChangeDetected">
+            <summary>
+            Defines the ChangeDetected event.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetector.InformationMessage">
+            <summary>
+            Gets or sets the InformationMessage.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetector.InformationCaption">
+            <summary>
+            Gets or sets the InformationCaption.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetector.BoxButtons">
+            <summary>
+            Gets or sets the BoxButtons.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetector.BoxIcon">
+            <summary>
+            Gets or sets the BoxIcon.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeDetector.BoxCancel">
+            <summary>
+            Gets or sets the BoxCancel.
+            </summary>
+        </member>
+        <member name="T:ChangeDetectorControlLibrary.ChangeOccurredEventArgs">
+            <summary>
+            Provides data for the ChangedOccurrent event.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeOccurredEventArgs.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeOccurredEventArgs"/> class.
+            </summary>
+            <param name="changedOccurred">The value of property.</param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeOccurredEventArgs.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeOccurredEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeOccurredEventArgs.#ctor(System.Object,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ChangeOccurredEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeOccurredEventArgs.ChangedOccurred">
+            <summary>
+            Gets or sets a value indicating whether a changed occurred.
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ChangeOccurredEventArgs.Sender">
+            <summary>
+            Gets or sets the sending object.
+            </summary>
+        </member>
+        <member name="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs">
+            <summary>
+            Defines the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs"/>
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.#ctor(System.Windows.Forms.DialogResult)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs"/> class.
+            </summary>
+            <param name="result">The result<see cref="T:System.Windows.Forms.DialogResult"/></param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs"/> class.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.#ctor(System.Object,System.Windows.Forms.DialogResult)">
+            <summary>
+            Initializes a new instance of the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs"/> class.
+            </summary>
+            <param name="sender">The sender<see cref="T:System.Object"/></param>
+            <param name="result">The result<see cref="T:System.Windows.Forms.DialogResult"/></param>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.DialogResult">
+            <summary>
+            Gets or sets the DialogResult
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.Sender">
+            <summary>
+            Gets or sets the Sender
+            </summary>
+        </member>
+    </members>
+</doc>
