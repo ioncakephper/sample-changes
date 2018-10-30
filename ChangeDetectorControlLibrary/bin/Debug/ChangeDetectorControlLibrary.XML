@@ -6,7 +6,7 @@
     <members>
         <member name="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs">
             <summary>
-            Defines the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs"/>
+            Defines the <see cref="T:ChangeDetectorControlLibrary.ChangeDetectingEventArgs" />
             </summary>
         </member>
         <member name="M:ChangeDetectorControlLibrary.ChangeDetectingEventArgs.#ctor(System.Object,System.Boolean)">
@@ -53,32 +53,6 @@
             </summary>
             <param name="container">The containing container.</param>
         </member>
-        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.CancelFormClosing(System.Object)" -->
-        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChange(ChangeDetectorControlLibrary.ChangeOccurredEventArgs)" -->
-        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetecting(ChangeDetectorControlLibrary.ChangeDetectingEventArgs)" -->
-        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetected(ChangeDetectorControlLibrary.ConfirmationActionEventArgs)" -->
-        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeProperties">
-            <summary>
-            Initializes properties.
-            </summary>
-        </member>
-        <member name="F:ChangeDetectorControlLibrary.ChangeDetector.components">
-            <summary>
-            Required designer variable.
-            </summary>
-        </member>
-        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.Dispose(System.Boolean)">
-            <summary> 
-            Clean up any resources being used.
-            </summary>
-            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-        </member>
-        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeComponent">
-            <summary>
-            Required method for Designer support - do not modify
-            the contents of this method with the code editor.
-            </summary>
-        </member>
         <member name="E:ChangeDetectorControlLibrary.ChangeDetector.ChangeDetecting">
             <summary>
             Defines the ChangeDetecting event.
@@ -119,6 +93,32 @@
             Gets or sets the BoxCancel.
             </summary>
         </member>
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.CancelFormClosing(System.Object)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChange(ChangeDetectorControlLibrary.ChangeOccurredEventArgs)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetecting(ChangeDetectorControlLibrary.ChangeDetectingEventArgs)" -->
+        <!-- Badly formed XML comment ignored for member "M:ChangeDetectorControlLibrary.ChangeDetector.OnChangeDetected(ChangeDetectorControlLibrary.ConfirmationActionEventArgs)" -->
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeProperties">
+            <summary>
+            Initializes properties.
+            </summary>
+        </member>
+        <member name="F:ChangeDetectorControlLibrary.ChangeDetector.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ChangeDetectorControlLibrary.ChangeDetector.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
         <member name="T:ChangeDetectorControlLibrary.ChangeOccurredEventArgs">
             <summary>
             Provides data for the ChangedOccurrent event.
@@ -152,7 +152,17 @@
         </member>
         <member name="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs">
             <summary>
-            Defines the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs"/>
+            Defines the <see cref="T:ChangeDetectorControlLibrary.ConfirmationActionEventArgs" />
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.DialogResult">
+            <summary>
+            Gets or sets the DialogResult
+            </summary>
+        </member>
+        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.Sender">
+            <summary>
+            Gets or sets the Sender
             </summary>
         </member>
         <member name="M:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.#ctor(System.Windows.Forms.DialogResult)">
@@ -172,16 +182,6 @@
             </summary>
             <param name="sender">The sender<see cref="T:System.Object"/></param>
             <param name="result">The result<see cref="T:System.Windows.Forms.DialogResult"/></param>
-        </member>
-        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.DialogResult">
-            <summary>
-            Gets or sets the DialogResult
-            </summary>
-        </member>
-        <member name="P:ChangeDetectorControlLibrary.ConfirmationActionEventArgs.Sender">
-            <summary>
-            Gets or sets the Sender
-            </summary>
         </member>
     </members>
 </doc>

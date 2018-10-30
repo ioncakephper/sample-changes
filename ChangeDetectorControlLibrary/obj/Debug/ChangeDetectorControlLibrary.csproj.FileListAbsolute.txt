@@ -4,3 +4,9 @@ c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\Change
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.dll
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.pdb
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.XML
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.XML
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.dll
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\bin\Debug\ChangeDetectorControlLibrary.pdb
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.csprojResolveAssemblyReference.cache
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.dll
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetectorControlLibrary\obj\Debug\ChangeDetectorControlLibrary.pdb

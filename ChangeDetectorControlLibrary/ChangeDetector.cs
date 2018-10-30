@@ -38,19 +38,19 @@ namespace ChangeDetectorControlLibrary
         /// <summary>
         /// Defines the ChangeDetecting event.
         /// </summary> 
-        [Description("Occurrs whenever the form looks for changes in its content, before the form looks for changes.")]
+        [Description("Occurs whenever the form looks for changes in its content, before the form looks for changes.")]
         public event EventHandler<ChangeDetectingEventArgs> ChangeDetecting;
 
         /// <summary>
         /// Defines the Change event.
         /// </summary>
-        [Description("Occurrs whenever the form looks for changes in its content.")]
+        [Description("Occurs whenever the form looks for changes in its content.")]
         public event EventHandler<ChangeOccurredEventArgs> Change;
 
         /// <summary>
         /// Defines the ChangeDetected event.
         /// </summary>
-        [Description("Occurrs whenever the form looks for changes in its content, after the form looks for changes.")]
+        [Description("Occurs whenever the form looks for changes in its content, after the form looks for changes.")]
         public event EventHandler<ConfirmationActionEventArgs> ChangeDetected;
 
         /// <summary>
@@ -114,9 +114,10 @@ namespace ChangeDetectorControlLibrary
                         OnChangeDetected(new ConfirmationActionEventArgs(sender, result));
                         return false;
                     }
+
+                    return true;
                 }
             }
-
             return e.Cancel;
         }
 

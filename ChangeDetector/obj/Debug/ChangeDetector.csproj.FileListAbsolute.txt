@@ -11,3 +11,16 @@ c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\Change
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.dll
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.pdb
 c:\users\ion.gireada\documents\visual studio 2013\Projects\ChangeDetector\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.xml
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetector.exe.config
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.exe
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.pdb
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetector.exe
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetector.pdb
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.dll
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.pdb
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\bin\Debug\ChangeDetectorControlLibrary.xml
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.csprojResolveAssemblyReference.cache
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.Form1.resources
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.Properties.Resources.resources
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.SampleDialog.resources
+C:\Users\shytiger\Source\Repos\ioncakephper\sample-changes\ChangeDetector\obj\Debug\ChangeDetector.csproj.GenerateResource.Cache
